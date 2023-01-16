@@ -17,4 +17,16 @@ This Program, Will give the first Winner Name.
 Check Screenshot For More Clarification.
 
 Written In - JAVA 8
+
+<img width="309" alt="Screenshot 2023-01-16 at 11 23 12 AM" src="https://user-images.githubusercontent.com/43146157/212609458-968fe200-d20b-4466-b212-3e885f5d4606.png">
+
+
+
+<img width="349" alt="Screenshot 2023-01-16 at 11 23 21 AM" src="https://user-images.githubusercontent.com/43146157/212609583-5d48245f-dd8f-4eb5-a848-ded6008617fb.png">
+
+
+<img width="436" alt="Screenshot 2023-01-16 at 11 38 51 AM" src="https://user-images.githubusercontent.com/43146157/212609623-5a4b259e-e913-402d-abbe-2e9519098fba.png">
+
  By Lakshay Garg
+ 
+ 
